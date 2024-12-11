@@ -1,0 +1,12 @@
+{
+  "domain": "insta_follower",
+  "name": "Insta Follower Counter",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/xamrex/Hacs_Insta_follower",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/xamrex/Hacs_Insta_follower/issues",
+  "version": "1.0.0"
+}

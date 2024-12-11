@@ -1,0 +1,19 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "If you want a sensor that displays Instagram followers counter enter instagram username and token. More inforation how to get token you can find here: https://github.com/xamrex/Hacs_Insta_follower",
+                "data": {
+                    "username": "Instagram Account Name",
+                    "password": "Token"
+                }
+            }
+        },
+        "error": {
+            "auth": "Username/Token is wrong.",
+            "connection": "Unable to connect to the server.",
+            "unknown": "Unknown error occurred.",
+			"invalid_token_length": "The token must be exactly 50 characters long."
+        }
+    }
+}
