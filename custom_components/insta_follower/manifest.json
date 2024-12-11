@@ -2,7 +2,7 @@
   "domain": "insta_follower",
   "name": "Insta Follower Counter",
   "codeowners": [
-    "@ludeeus"
+    "@xamrex"
   ],
   "config_flow": true,
   "documentation": "https://github.com/xamrex/Hacs_Insta_follower",

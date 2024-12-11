@@ -64,4 +64,4 @@ class IntegrationInstaSensor(IntegrationInstaEntity, SensorEntity):
         
     @property
     def unit_of_measurement(self) -> str | None:
-        return "subs"  # Set unit to 'subs'
+        return "followers"  # Set unit to 'subs'
